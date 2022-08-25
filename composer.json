@@ -1,0 +1,10 @@
+{
+    "name": "serge/testimy",
+     "repositories":[
+            {
+                "type":"git",
+                "url":"https://github.com/feastker/imy-core.git"
+            }
+        ],
+        "require":{"imy/core":"dev-main"}
+    }
